@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- adis1313 version -->
+    <string name="adis1313_version_title">adis1313 build version</string>
+    <string name="adis1313_version_default">v0.1</string>
+
+</resources>

@@ -117,6 +117,12 @@
                 android:title="@string/slim_version_title"
                 android:summary="@string/slim_version_default"/>
 
+	<!-- adis1313 version -->
+	<Preference android:key="adis1313_version"
+		style="?android:preferenceInformationStyle"
+		android:title="@string/adis1313_version_title"
+		android:summary="@string/adis1313_version_default"/>
+
         <!-- Build date -->
         <Preference android:key="build_date"
                 style="?android:preferenceInformationStyle"
